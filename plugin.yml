@@ -1,0 +1,9 @@
+name: Practice
+main: ALEXDoDoYT\PracticeMain
+api: [3.0.0]
+version: 5.0.0
+author: ALEXDoDoYT
+
+commands:
+    practice:
+    description: "Command Practice Public"
